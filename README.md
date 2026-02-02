@@ -98,10 +98,6 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh0014&custom_title=Anshul's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ansh0014&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
 </div>
 
 ---
