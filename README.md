@@ -33,7 +33,7 @@ For me, engineering isn't just about writing code that compiles—it's about **s
 ## 🎯 Current Focus
 
 ```yaml
-role: Backend Engineer & System Architect
+role: Backend Engineer & System Desing
 code: [C, C++, Go, Zig, Python]
 focus: Distributed Systems & Low-Level Programming
 currently_learning: ["Advanced Go Concurrency", "System Design Patterns"]
