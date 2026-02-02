@@ -91,11 +91,11 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 
 <br/>
 
-### � GitHub Stats
+### 📈 GitHub Stats
 
-![Total Commits](https://img.shields.io/github/commit-activity/t/ansh0014/ansh0014?style=for-the-badge&color=6366F1&labelColor=0D1117&label=TOTAL+COMMITS)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ansh0014&query=$.public_repos&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PUBLIC+REPOS)
-![Contributions](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ansh0014&query=$.public_gists&style=for-the-badge&color=6366F1&labelColor=0D1117&label=GISTS)
+![Total Contributions](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-413+-6366F1?style=for-the-badge&labelColor=0D1117)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ansh0014&query=$.public_repos&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PUBLIC+REPOS)
+![Account Age](https://img.shields.io/badge/ACCOUNT_AGE-2+Years-6366F1?style=for-the-badge&labelColor=0D1117)
 
 <br/>
 
