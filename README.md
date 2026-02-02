@@ -85,11 +85,7 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 
 <div align="center">
   
-### 📈 Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh0014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+### 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ansh0014&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
@@ -98,7 +94,7 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 📊 Contribution Graph
