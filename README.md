@@ -86,39 +86,31 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 <div align="center">
   
 ### 📈 Profile Stats
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh0014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ansh0014&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh0014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ansh0014&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</p>
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+</p>
 
 ### 📊 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh0014&custom_title=Anshul's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh0014&custom_title=Anshul's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 </div>
 
 ---
 
-## 🏗️ Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/ansh0014?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh0014&repo=ansh0014&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" />
-</a>
-
-<!-- Add your actual repositories here like this:
-<a href="https://github.com/ansh0014/your-repo-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh0014&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" />
-</a>
--->
-
-</div>
-
----
 
 ## 🌐 Connect & Collaborate
 
