@@ -81,27 +81,17 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-### 📈 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ansh0014&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ansh0014&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ansh0014?style=for-the-badge&color=6366F1&labelColor=0D1117)](https://github.com/ansh0014?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ansh0014?style=for-the-badge&color=6366F1&labelColor=0D1117)](https://github.com/ansh0014?tab=repositories)
 
-### 💻 Most Used Languages
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</p>
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh0014&custom_title=Anshul's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+**💻 Check out my repositories below! 👇**
 
 </div>
 
