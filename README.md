@@ -91,23 +91,15 @@ fun_fact: "I debug in binary and dream in assembly 🔧"
 
 <br/>
 
-### 📈 Real-Time GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
-  <a href="https://github.com/ansh0014/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ansh0014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="Ansh's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ansh0014">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh0014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://ghchart.rshah.org/6366F1/ansh0014" alt="GitHub Contribution Chart" width="100%"/>
 </p>
 
 <br/>
 
-**💻 Check out my repositories below! 👇**
+**💻 Check out my repositories to see my work! 👇**
 
 </div>
 
