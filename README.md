@@ -27,14 +27,10 @@
   <a href="https://github.com/ansh0014">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh0014&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="ansh0014's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ansh0014&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="ansh0014's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ansh0014&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anshul Jagota's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
