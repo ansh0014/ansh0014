@@ -6,10 +6,15 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Doing NoThing
+- Building things that actually work
+- Breaking things to understand how they work
+- Backend & Distributed Systems
+- Open Source & Hackathons
+- Always experimenting with new tech
+- Currently obsessed with system design
 
 
 ## 🧠 My Focus Areas
