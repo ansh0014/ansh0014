@@ -40,6 +40,7 @@
 
 ## 🏙️ 3D Contribution City
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ansh0014/ansh0014/main/profile-3d-contrib/profile-night-view.svg" alt="ansh0014's 3D Contribution City" width="100%" />
   <img src="https://raw.githubusercontent.com/ansh0014/ansh0014/main/profile-3d-contrib/profile-night-green.svg" alt="ansh0014's 3D Contribution City" width="100%" />
 </p>
 
@@ -93,9 +94,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh0014/ansh0014/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh0014/ansh0014/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ansh0014/ansh0014/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh0014/ansh0014/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh0014/ansh0014/main/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ansh0014/ansh0014/main/github-snake.svg" />
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/ansh0014" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
