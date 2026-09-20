@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ansh0014">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh0014&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="ansh0014's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh0014&show_icons=true&theme=gruvbox&border_radius=10" alt="ansh0014's GitHub Stats" />
   </a>
 </p>
 <p align="center">
@@ -40,7 +40,7 @@
 
 ## 🏙️ 3D Contribution City
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="ansh0014's 3D Contribution City" width="100%" />
+  <img src="https://raw.githubusercontent.com/ansh0014/ansh0014/main/profile-3d-contrib/profile-night-view.svg" alt="ansh0014's 3D Contribution City" width="100%" />
 </p>
 
 
