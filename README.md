@@ -40,7 +40,7 @@
 
 ## 🏙️ 3D Contribution City
 <p align="center">
-  <img src="profile-3d-city.svg" alt="ansh0014's 3D Contribution City" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="ansh0014's 3D Contribution City" width="100%" />
 </p>
 
 
